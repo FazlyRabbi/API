@@ -1,0 +1,45 @@
+Date :16/04/2021
+Learning Topics: More Object
+Object is a key value pair
+
+if i can define a invalid key then i have to write like this 
+
+const product ={
+
+   name: "T-shirt",
+   color:"white",
+   price:"10$",
+   'is available':true  "this is the invalid key"
+
+
+}
+
+
+Factory Function: when a Function return a Object that calls factory function 
+
+
+Url: 
+
+
+
+
+Date :17/04/2021
+Learning Topics: Constructor Function
+
+this in constructor function indecate = somekinds of object 
+
+this inside method = object 
+
+otherwise always indicate = window 
+
+1. Constructor Function name starting with uppercase latter 
+
+Url: 
+
+
+
+Date :18/04/2021
+Learning Topics: Constructor Function
+
+
+Url: 
